@@ -59,4 +59,4 @@ class ConfigFlow(config_entries.ConfigFlow, domain=DOMAIN):
 class CannotConnect(HomeAssistantError):
     """Error to indicate we cannot connect."""
 
-    _LOGGER.exception("Could not connect to AstraPool Instance")
+    _LOGGER.exception("Could not connect to Somfy Instance")
