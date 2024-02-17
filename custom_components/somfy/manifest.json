@@ -1,0 +1,16 @@
+{
+    "domain": "astra_pool",
+    "name": "Astra Pool",
+    "codeowners": [
+      "@christianf07"
+    ],
+    "config_flow": true,
+    "dependencies": [],
+    "documentation": "https://www.home-assistant.io/integrations/astra_pool",
+    "homekit": {},
+    "iot_class": "local_push",
+    "requirements": [],
+    "ssdp": [],
+    "zeroconf": [],
+    "version": "1.0.0"
+  }
